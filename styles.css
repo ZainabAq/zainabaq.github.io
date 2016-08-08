@@ -1,0 +1,30 @@
+.circular {
+	width: 20em;
+	height: 20em;
+	border-radius: 50%;
+	background: url('display.jpg') no-repeat;
+
+  margin-top: 3em;
+	}
+
+  .header {
+    width: 100%;
+    height: 4em;
+    background-color: #935347;
+
+  }
+
+.img-responsive {
+  margin: 0 auto;
+}
+
+.introduction {
+  background-color: #76323f;
+  margin-top: 4em;
+  width: 100%;
+  height: 20em;
+}
+
+.intro-text {
+  color: white;
+}
